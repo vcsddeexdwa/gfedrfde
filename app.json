@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "gfedrfde/edit",
+  "description": "gfedrfde/edit",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/vcsddeexdwa/gfedrfde",
+  "repository": "https://github.com/vcsddeexdwa/gfedrfde",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
